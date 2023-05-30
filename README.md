@@ -6,9 +6,11 @@
 
 Я начинающий .Net разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в начале 2022 года. По видео на ютубе я самостоятельно выучил основы C#, затем начал проходить курсы на степике. Благодаря курсам я освоил ООП, алгоритмы поиска и сортировки данных, научился создавать веб-приложения. В настоящий момент я нахожусь в поисках работы, параллельно с этим я планирую поступать в университет, в Москву.
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<div>
+ <p align="center">
+  <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ </p>
+</div>
 
 - :mailbox: Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/c_tacuk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:stas.working.gma1l@gmail.com)
 
