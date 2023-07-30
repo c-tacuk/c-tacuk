@@ -26,7 +26,7 @@
 ### ☹️ Для этих технологий я не нашел значков:
 - Entity Framework
 - MVC
-- MS Sql Server 2019
+- MS SQL Server 2019
 - LINQ
 - AngleSharp
 
